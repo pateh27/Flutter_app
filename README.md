@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+![screenshot hasil_app](images\01.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -12,5 +13,3 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## The Result of The Code I Created
-
-![screenshot hasil_app](images\01.png)
