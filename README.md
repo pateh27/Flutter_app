@@ -13,4 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 
 # The Result of The Code I Created
 
-![screenshot hasil app](F:\FLutter1\flutter_application_1\images\01.png)
+![screenshot hasil_app](images\01.png)
