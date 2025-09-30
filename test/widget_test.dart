@@ -8,7 +8,7 @@ void main() {
       (WidgetTester tester) async {
     // Build app dengan Provider agar context.watch bekerja
     await tester.pumpWidget(
-      ChangeNotifierProvider(
+      ChangeNotifierProvider<MyAppState>(
         create: (context) => MyAppState(),
         child: const MyApp(),
       ),
